@@ -1,6 +1,6 @@
 # Space Invaders
 
-Space Invaders is the final Project for How To Code: Simple Data on edx that based on the book: [How to design programs](https://htdp.org/2003-09-26/)
+Space Invaders is the final Project for the course, How To Code: Simple Data on edx that based on the book: [How to design programs](https://htdp.org/2003-09-26/)
 
 ## Program behaviour
 
