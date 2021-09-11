@@ -22,7 +22,7 @@ video: [Short video game Example](https://drive.google.com/file/d/1rGr-ip55IjJ2T
 
 ## Download
 
-The program is written in rackets and needs DR Racket IDE to run on it.
+The program is written in Racket and needs DR Racket IDE to run on it.
 you can download it from here: [Dr Racket](https://download.racket-lang.org/)
 
 
