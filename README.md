@@ -1,6 +1,6 @@
 # Space Invaders
 
-Space Invaders is the final Project for the course, How To Code: Simple Data on edx that based on the book: [How to design programs](https://htdp.org/2003-09-26/)
+Space Invaders is the final Project for the course, How to Design Programs on EDX that based on the book: [How to design programs](https://htdp.org/2003-09-26/)
 
 ## Program behaviour
 
@@ -22,7 +22,7 @@ video: [Short video game Example](https://drive.google.com/file/d/1rGr-ip55IjJ2T
 
 ## Download
 
-The program is written in Racket and needs DR Racket IDE to run on it.
+The program is written in Racket programmig language and needs DR Racket IDE to run on it.
 you can download it from here: [Dr Racket](https://download.racket-lang.org/)
 
 
