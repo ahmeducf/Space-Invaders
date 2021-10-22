@@ -1,6 +1,6 @@
 # Space Invaders
 
-Space Invaders is the final Project for the course, How to Design Programs on EDX that based on the book: [How to design programs](https://htdp.org/2003-09-26/)
+Space Invaders is the final Project for the course, How to Design Programs on EDX that is based on the book: [How to design programs](https://htdp.org/2003-09-26/)
 
 ## Program behaviour
 
